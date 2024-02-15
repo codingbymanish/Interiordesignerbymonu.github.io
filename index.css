@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(207,108,37);
+}
+
+
+.back{
+    background-image: url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+}
+
+
+.Welcome_p{
+    text-align: justify;
+    line-height: 30px;
+    /* font-size: px; */
+}
+
+.buttons, .navbg {
+    background: rgb(207,108,37);
+}
+.buttons:hover{
+    background: rgb(207,108,37);
+}
+
+.nav-link , .foota {
+    color: rgb(207,108,37);
+}
+.nav-link:hover{
+    color: rgb(207,108,37);
+}
+
+.para{
+    text-align: justify;
+}
+
+.background2{
+    background-image: url(3433.jpg);
+    background-attachment: fixed;  
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
